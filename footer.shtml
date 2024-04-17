@@ -1,0 +1,197 @@
+<footer>
+<div class="footer-section">
+        <br /><br /><br><br>
+        <div class="about-right-icon">
+            <figure class="footer-icon">
+                <img src="./assets/images/footer-left.png" alt="" class="img-fluid">
+            </figure>
+        </div>
+        <div class="footer-outer-margin" data-aos="fade-up">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="footer-content1" data-aos="flip-left">
+                            <figure>
+                                <a href="index.html"><h3 class="text-white">Servers Solution</h3></a>
+                            </figure>
+                            <p class="red-light-footer-p">
+                                Server Solutions is a Premier Google and Microsoft Partner delivering services in the areas of Server Management, Microsoft Products, Server Security, Website Security, and Customer Support.
+                            </p>
+                            <div class="social-icons teams-social-icons">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="https://www.facebook.com/ActiveserversIndia/" class="text-decoration-none red-hover">
+                                            <i class="fa-brands fa-square-facebook  social-networks"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://twitter.com/Activeserver_ho" class="text-decoration-none red-hover">
+                                            <i class="fa-brands fa-square-twitter social-networks"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/activeservers/" class="text-decoration-none red-hover">
+                                            <i class="fa-brands fa-linkedin social-networks"></i>
+                                        </a>
+                                    </li>
+                                   
+                                       <li><a href="https://www.instagram.com/activeservers/" class="text-decoration-none red-hover">
+									   <i class="fa-brands fa-instagram social-networks"></i></a>
+</li>     
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 d-xl-block d-none"></div>
+                    <div class="col-xl-2 col-lg-3 col-md-2 col-sm-12 d-lg-block d-none">
+                        <ul class="list-unstyled services-footer" data-aos="flip-left">
+                            <li class="list-item footer-margin-left">
+                                <h5 class="footer-link  footer-services-heading">
+                                    Services
+                                </h5>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="serversetup.html" class="text-decoration-none footer-link-p">
+                                    Server Setup
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="serveroptimization.html" class="text-decoration-none footer-link-p">
+                                    Server Optimization
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="servermanagement.html" class="text-decoration-none footer-link-p">
+                                    Server Management
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="cpanel.html" class="text-decoration-none footer-link-p">
+                                    Cpanel
+                                </a>
+                            </li>
+
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="fastpanel.html" class="text-decoration-none footer-link-p">
+                                    Fast Panel
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="plesk.html" class="text-decoration-none footer-link-p">
+                                    Plesk
+                                </a>
+                            </li>
+							<i class="fa-solid fa-caret-right"></i>
+                                <a href="virtualmin.html" class="text-decoration-none footer-link-p">
+                                   Virtualmin
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-12 d-md-block d-none">
+                        <ul class="list-unstyled support-footer" data-aos="flip-left">
+                            <li class="list-item footer-margin-left">
+                                <h5 class="footer-link footer-services-heading">
+                                    Support
+                                </h5>
+                            </li>
+                            <!-- <li>
+                                 <i class="fa-solid fa-caret-right"></i>
+                                 <a href="index.html" class="text-decoration-none footer-link-p">
+                                     Support
+                                 </a>
+                             </li>-->
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="contact.html" class="text-decoration-none footer-link-p">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="https://clients.activeservers.in/knowledgebase" class="text-decoration-none footer-link-p">
+                                    Knowledge Base
+                                </a>
+                            </li>
+                            <li>
+                                <i class="fa-solid fa-caret-right"></i>
+                                <a href="about.html" class="text-decoration-none footer-link-p">
+                                    About Us
+                                </a>
+                            </li>
+
+                            <!--     <li>
+                                     <i class="fa-solid fa-caret-right"></i>
+                                     <a href="faq.html" class="text-decoration-none footer-link-p">
+                                         FAQ
+                                     </a>
+                                 </li>
+                                 <li>
+                                     <i class="fa-solid fa-caret-right"></i>
+                                     <a href="testimonial.html" class="text-decoration-none footer-link-p">
+                                         Partnerships
+                                     </a>
+                                 </li>-->
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-list">
+                            <div class="icon-list-box1" data-aos="flip-left">
+                                <ul class="list-unstyled contact-us-ul">
+                                    <li class="list-item">
+                                        <h5 class="footer-link footer-get-heading">
+                                            Get in Touch
+                                        </h5>
+                                    </li>
+                                    <li class="list-item position-reletive addres-list icon-list1">
+                                        <div class="number">
+                                            <a href="mailto:support@activeservers.in"
+                                               class="text-decoration-none footer-link-p ml-0">
+                                                <span class="footer-additional">Email:</span> support@activeservers.in
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="list-item position-reletive addres-list icon-list1">
+                                        <div class="contact-number">
+                                            <a href="tel:+919359426804"
+                                               class="text-decoration-none footer-link-p ml-0">
+                                                <span class="footer-additional">Phone:</span> +91 9359426804
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="list-item position-reletive addres-list icon-list1">
+                                        <div class="contact-address">
+                                            <a href="javascript:void(0)"
+                                               class="text-decoration-none footer-link-p ml-0">
+                                                <span class="footer-additional">Addres:</span> Gadi road, near Kotak mahindra bank, Dahod, Gujarat 389151, India
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bar text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-bar-content w-100 overflow-hidden">
+                        <p class="text-size-16 mb-0">
+                            Copyright ©2023 ServersSolution.com All Rights Reserved
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </footer>
